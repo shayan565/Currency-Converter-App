@@ -29,7 +29,7 @@ class CorrConverter extends StatefulWidget{
         title: Text("Currency Converter",
         
         style: TextStyle(color: const Color.fromARGB(255, 229, 229, 229),
-        fontSize: 40,),
+        fontSize: 25,),
         ),
         centerTitle: true,
         
